@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="junit.jupiter" type="repository">
+    <properties maven-id="org.junit.jupiter:junit-jupiter:5.8.2" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../MavenLibrary/junit-jupiter-5.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MavenLibrary/junit-jupiter-api-5.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MavenLibrary/opentest4j-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MavenLibrary/junit-platform-commons-1.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MavenLibrary/apiguardian-api-1.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MavenLibrary/junit-jupiter-params-5.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MavenLibrary/junit-jupiter-engine-5.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MavenLibrary/junit-platform-engine-1.8.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
