@@ -10,7 +10,7 @@ public class CalculatorTest {
     private static Calculator calculator;
 
     @BeforeAll
-    static void init(){
+    public static void init(){
         calculator = new Calculator();
     }
 
